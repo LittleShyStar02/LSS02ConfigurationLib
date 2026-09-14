@@ -41,9 +41,6 @@ replay_pid*.log
 .claude/
 CLAUDE.md
 
-# Sito docs: repo git indipendente e separata, non va tracciata qui
-/docs/
-
 # Chiavi/segreti (GPG signing, ecc.) - non vanno mai tracciate
 *.asc
 *.gpg
